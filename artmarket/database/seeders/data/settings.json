@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "group": "general",
+    "name": "site_name",
+    "value": "\"Marketplace\""
+  },
+  {
+    "id": 2,
+    "group": "general",
+    "name": "site_active",
+    "value": "\"false\""
+  },
+  {
+    "id": 3,
+    "group": "general",
+    "name": "fees",
+    "value": "\"10\""
+  }
+]

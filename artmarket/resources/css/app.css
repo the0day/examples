@@ -1,0 +1,16 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+.datepicker-cell.disabled {
+    color: darkgray;
+}
+
+.header-navigation a, .header-navigation a:hover {
+    transition: background-color 0.5s ease;
+}
+
+.user-menu a:hover {
+    background-color: rgb(248 250 252);
+}

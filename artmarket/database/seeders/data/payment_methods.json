@@ -1,0 +1,9 @@
+[
+  {
+    "name": "wallet",
+    "title": "{\"ru\":\"Кошелек\", \"en\": \"Wallet\"}",
+    "order": 1,
+    "active": 1,
+    "commission": 0
+  }
+]

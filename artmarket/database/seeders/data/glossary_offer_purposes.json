@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "offer_type_id": "1",
+    "title": "{\"ru\":\"Свадьба\"}",
+    "alias": "wedding",
+    "icon": "",
+    "active": "1",
+    "order": "1"
+  },
+  {
+    "id": "2",
+    "offer_type_id": "1",
+    "title": "{\"ru\":\"День Рождения\"}",
+    "alias": "birthday",
+    "icon": "",
+    "active": "1",
+    "order": "2"
+  }
+]

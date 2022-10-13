@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "{\"ru\":\"Базовые опции\"}",
+    "description": null,
+    "alias": "basic",
+    "icon": "",
+    "active": "1",
+    "order": "1",
+    "type": "1"
+  },
+  {
+    "id": "2",
+    "title": "{\"ru\":\"Расширенные опции\"}",
+    "description": null,
+    "alias": "upgrades",
+    "icon": "",
+    "active": "1",
+    "order": "1",
+    "type": "1"
+  },
+  {
+    "id": "3",
+    "title": "{\"ru\":\"Инфрмация о работе\"}",
+    "description": null,
+    "alias": "info",
+    "icon": "",
+    "active": "1",
+    "order": null,
+    "type": "2"
+  }
+]
