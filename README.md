@@ -18,3 +18,7 @@ I have implemented a feature in an online browser game that facilitates "data wa
 
 ### eth-accounts-farm
 The tool was developed with Laravel framework in one week. It works with the Ethereum blockchain and provides the following features: creating wallets, checking the balance of accounts, detecting specific transactions, and creating unsigned transactions through an API. After the accounts are created, they can sign and send the transactions.
+
+### widgets-manager
+
+The Widget Helper Library is a UI management tool that leverages design patterns like Composite, Template Method, and Singleton. Simplify widget creation, organization, and rendering while following established design principles. 
